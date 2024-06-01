@@ -1,1 +1,2 @@
-This is Demo for Git & Github class
+#Delta-Demo
+This is Demo for Git & Github class.
